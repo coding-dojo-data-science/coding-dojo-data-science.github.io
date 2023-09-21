@@ -1,0 +1,56 @@
+<h1>Kernel Error / Jupyter Missing "Python (dojo-env)" in kernels</h1>
+<h2>PROBLEM:</h2>
+<p></p>
+<ul>
+	<li><strong>If you see a message like this when trying to open the environment testing notebook:<br></strong></li>
+</ul>
+<figure><img
+		src="../../images/lp/kernel_error.png">
+</figure>
+<p></p>
+<ul>
+	<li><strong>OR if "Python (dojo-env)" doesn't show up in Jupyter Notebook in EITHER:</strong>
+		<ul>
+			<li>The "New" menu on the Files tab in Jupyter.</li>
+		</ul>
+	</li>
+	<li>
+		<figure><img
+				src="../../images/lp/missing_kernel_new.png"
+				style="width: 620px; height: 277px;" width="620" height="277"><br></figure>
+		<ul>
+			<li>
+				<p>or the Kernel &gt; Change Kernel menu inside a Jupyter Notebook:<br></p>
+				<figure><img
+						src="../../images/lp/missing_kernel_notebook.png"
+						style="width: 519px; height: 323px;" width="519" height="323"><span></span></figure>
+			</li>
+		</ul>
+	</li>
+</ul>
+<h2>Solution</h2>
+<ul>
+	<li>You missed a command after running the conda env create command during step 2, so let's rerun the command.</li>
+	<li>First, shut down Jupyter Notebook <ul>
+			<li>The quickest way is to go back to the Terminal/GitBash window that you used to start the notebook and
+				press "control + C"</li>
+		</ul>
+	</li>
+</ul>
+<ul>
+	<li><strong>In your terminal/GitBash, make sure it says (dojo-env) above or next to your terminal prompt.</strong>
+		<ul>
+			<li>if not, on Mac run: <ul>
+					<li>"conda activate dojo-env"</li>
+				</ul>
+			</li>
+			<li>on Windows run:<ul>
+					<li>"source activate dojo-env"</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li><strong>Then run the command below to install dojo-env as a kernel in jupyter:</strong></li>
+</ul>
+<pre>python -m ipykernel install --user --name dojo-env --display-name "Python (dojo-env)"</pre>
+<p>Then, go ahead and boot up jupyter notebook and try again. It should now know the "Python (dojo-env)" kernel.</p>
