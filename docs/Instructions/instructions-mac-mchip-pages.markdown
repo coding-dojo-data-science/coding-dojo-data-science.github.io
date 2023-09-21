@@ -1,6 +1,11 @@
-| layout | title | parent| nav_order |
-| ------ | -------------------------- | -------------------------------- | --------- |
-| page   |Mac_Apple Chip_Installation Overview | ../Instructions/ | 4         |
+___
+layout: page
+title: "Mac (Apple Chip) Installation Overview"
+permalink: https://coding-dojo-data-science.github.io/dojo-env-mac-apple-chip
+ parent: Instructions
+___
+
+
 # Mac (Apple Chip) Installation Overview
 
 ___

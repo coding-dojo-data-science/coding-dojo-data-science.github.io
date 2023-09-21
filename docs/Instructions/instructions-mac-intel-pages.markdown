@@ -1,6 +1,11 @@
-| layout | title | parent| nav_order |
-| ------ | -------------------------- | -------------------------------- | --------- |
-| page   |Mac_Intel_Installation Overview | ../Instructions/ | 4         |
+___
+layout: page
+title: "Mac (Intel) Installation Overview"
+permalink: https://coding-dojo-data-science.github.io/dojo-env-mac-intel
+ parent: Instructions
+___
+
+
 # Mac (Intel) Installation Overview
 
 ___

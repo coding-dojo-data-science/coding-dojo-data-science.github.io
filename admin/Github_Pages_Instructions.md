@@ -136,7 +136,7 @@ git rm -rf
 
 
 
-## Github Actions Workflow to publish your site: 
+## *(If Want Use Theme)*Github Actions Workflow to publish your site: 
 
 - Generally a github action means that you want to set a trigger to publish your site. Github has many preset ones you can use but some themes will require you to use this option instead. 
 

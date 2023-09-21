@@ -1,6 +1,11 @@
-| layout | title | parent| nav_order |
-| ------ | -------------------------- | -------------------------------- | --------- |
-| page   |Updating to a new dojo-env | ../Instructions/ | 4         |
+___
+layout: page
+title: "Updating to a new dojo-env"
+permalink: https://coding-dojo-data-science.github.io/update-dojo-env
+ parent: Instructions
+___
+
+
 # **Updating to a new dojo-env**
 
 ___
