@@ -1,9 +1,6 @@
-___
-layout: page 
-title: "Windows Installation Instructions" 
-permalink: https://coding-dojo-data-science.github.io/dojo-env-windows
-___
-
+| layout | title | parent| nav_order |
+| ------ | -------------------------- | -------------------------------- | --------- |
+| page   |Windows Installation Instructions | ../Instructions/ | 4         |
 # Windows Installation Instructions
 
 ___

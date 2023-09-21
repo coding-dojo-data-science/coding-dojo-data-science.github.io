@@ -224,4 +224,30 @@ We are skipping the bundle to ensure Bundler will install your dependencies to t
         
         NOTE: IF YOU ARE INSTALLING A THEME THAT USES GITHUB ACTIONS ON A REPOSITORY WHERE YOU ALREADY RAN ```jekyll new --skip-bundle``` AND THE THEME IS NOT LOADING: 
         - Make sure that ```gem "jekyll"``` is NOT commented out and the ```gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugin``` IS commented out. 
+    
+    ## UPDATE: 
+    
+    - For adding YAML to static pages:
+    
+    \---
+    layout: page
+    title: Jupyter Missing Kernel Python (dojo-env)
+    parent: Folder name
+    nav_order: (order)
+    \---
+    
+    | layout | title                      | parent                           | nav_order |
+    | ------ | -------------------------- | -------------------------------- | --------- |
+    | page   | Updating To a New dojo-env | Instructions by Operating System | 4         |
+
+
+
+```
+
+| layout | title                      | parent                           | nav_order |
+| ------ | -------------------------- | -------------------------------- | --------- |
+| page   | Updating To a New dojo-env | Instructions by Operating System | 4         |
+
+
+```
 

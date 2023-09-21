@@ -1,9 +1,6 @@
-___
-layout: page 
-title: "Mac_Intel_Installation Overview" 
-permalink: https://coding-dojo-data-science.github.io/dojo-env-setup
-___
-
+| layout | title | parent| nav_order |
+| ------ | -------------------------- | -------------------------------- | --------- |
+| page   |Mac_Intel_Installation Overview | ../_posts/ | 4         |
 # Mac (Intel) Installation Overview
 
 ___

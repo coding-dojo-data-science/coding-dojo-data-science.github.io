@@ -1,9 +1,6 @@
-___
-layout: page 
-title: "Python Installation for Data Science - Overview" 
-permalink: https://coding-dojo-data-science.github.io/dojo-env-setup
-___
-
+| layout | title | parent| nav_order |
+| ------ | -------------------------- | -------------------------------- | --------- |
+| page   |Python Installation for Data Science - Overview | ../_posts/ | 4         |
 # Python Installation for Data Science - Overview
 
 ___

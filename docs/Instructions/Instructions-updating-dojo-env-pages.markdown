@@ -1,9 +1,6 @@
-___
-layout: page 
-title: "Updating to a new dojo-env" 
-permalink: https://coding-dojo-data-science.github.io/update-dojo-env
-___
-
+| layout | title | parent| nav_order |
+| ------ | -------------------------- | -------------------------------- | --------- |
+| page   |Updating to a new dojo-env | ../Instructions/ | 4         |
 # **Updating to a new dojo-env**
 
 ___
