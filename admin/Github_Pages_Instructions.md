@@ -225,6 +225,14 @@ We are skipping the bundle to ensure Bundler will install your dependencies to t
         NOTE: IF YOU ARE INSTALLING A THEME THAT USES GITHUB ACTIONS ON A REPOSITORY WHERE YOU ALREADY RAN ```jekyll new --skip-bundle``` AND THE THEME IS NOT LOADING: 
         - Make sure that ```gem "jekyll"``` is NOT commented out and the ```gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugin``` IS commented out. 
     
+    
+    
+    ### Selected Theme: Just the Docs (searchable)
+    
+    https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo 
+    
+    
+    
     ## UPDATE: 
     
     - For adding YAML to static pages:
