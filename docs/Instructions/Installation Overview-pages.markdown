@@ -2,7 +2,7 @@ ___
 layout: page
 title: "Python Installation for Data Science - Overview"
 permalink: https://coding-dojo-data-science.github.io/dojo-env-setup
- parent: Instructions
+parent: Instructions
 ___
 
 

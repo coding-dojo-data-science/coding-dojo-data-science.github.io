@@ -2,7 +2,7 @@ ___
 layout: page
 title: "Updating to a new dojo-env"
 permalink: https://coding-dojo-data-science.github.io/update-dojo-env
- parent: Instructions
+parent: Instructions
 ___
 
 

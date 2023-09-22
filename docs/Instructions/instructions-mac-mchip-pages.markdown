@@ -2,7 +2,7 @@ ___
 layout: page
 title: "Mac (Apple Chip) Installation Overview"
 permalink: https://coding-dojo-data-science.github.io/dojo-env-mac-apple-chip
- parent: Instructions
+parent: Instructions
 ___
 
 

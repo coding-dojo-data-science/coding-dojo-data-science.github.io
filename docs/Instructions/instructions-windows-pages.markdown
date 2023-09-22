@@ -2,7 +2,7 @@ ___
 layout: page
 title: "Windows Installation Instructions"
 permalink: https://coding-dojo-data-science.github.io/dojo-env-windows
- parent: Instructions
+parent: Instructions
 ___
 
 

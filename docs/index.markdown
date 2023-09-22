@@ -3,15 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+nav_order: 1
 ---
 
-<ol>
-<li><a href='instructions/Installation Overview-pages.markdown'>Installation Overview-Pages.Markdown</a></li>
-<li><a href='instructions/Instructions-updating-dojo-env-pages.markdown'>Instructions-Updating-Dojo-Env-Pages.Markdown</a></li>
-<li><a href='instructions/Instructions.markdown'>Instructions.Markdown</a></li>
-<li><a href='instructions/images'>Images</a></li>
-<li><a href='instructions/instructions-mac-intel-pages.markdown'>Instructions-Mac-Intel-Pages.Markdown</a></li>
-<li><a href='instructions/instructions-mac-mchip-pages.markdown'>Instructions-Mac-Mchip-Pages.Markdown</a></li>
-<li><a href='instructions/instructions-windows-pages.markdown'>Instructions-Windows-Pages.Markdown</a></li>
-
-</ol>
