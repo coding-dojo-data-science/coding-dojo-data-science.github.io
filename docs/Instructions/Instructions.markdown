@@ -1,8 +1,8 @@
 ___
 layout: page
-title: "Python Installation Instructions - Overview"
+title: Python Installation Instructions - Overview
 has_children: true
-permalink: https://coding-dojo-data-science.github.io/install-python/
+permalink: /dojo-env/
 ___
 
 # Python Installation for Data Science - Overview

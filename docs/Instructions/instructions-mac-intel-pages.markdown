@@ -1,8 +1,8 @@
 ___
 layout: page
-title: "Mac (Intel) Installation Overview"
+title: Mac (Intel) Installation Overview
 permalink: https://coding-dojo-data-science.github.io/dojo-env-mac-intel
-parent: Instructions
+parent: Python Installation Instructions - Overview
 ___
 
 
